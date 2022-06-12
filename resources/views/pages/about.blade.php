@@ -2,6 +2,7 @@
 
 @section('title', 'About Us | '.config('app.name'))
 
+
 @section('content')
     <div>
             <h1>Hello city</h1>
