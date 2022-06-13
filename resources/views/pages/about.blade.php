@@ -9,7 +9,7 @@
             
             <p>Build with &hearts; by me.</p>
 
-            <p><a href="/">Back to homepage.</a></p>   
+            <p><a href="{{route('home')}}">Back to homepage.</a></p>   
         </div>
 @endsection
         
